@@ -4,7 +4,7 @@
 Node.js Backend development
 
 - 📫 How to reach me 
-central.dogma99@kaist.ac.kr
+central.dogma99@gmail.com
 
 <!---
 centraldogma99/centraldogma99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
