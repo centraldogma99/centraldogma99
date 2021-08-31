@@ -4,8 +4,8 @@
 Node.js Backend development
 
 - 📫 How to reach me   
-Email: central.dogma99@gmail.com
-Discord: Osol2#7777
+**E-mail**  | central.dogma99@gmail.com  
+**Discord** | Osol2#7777                
 
 <!---
 centraldogma99/centraldogma99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
