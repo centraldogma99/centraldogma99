@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @centraldogma99
 
 - 🌱 I’m currently learning 
-Node.js Backend development
+Node.js / Express.js / React.js / Typescript
 
 - 📫 How to reach me   
 **E-mail**  | central.dogma99@gmail.com  
