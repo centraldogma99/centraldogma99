@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @centraldogma99
 
-- 🌱 I’m currently learning 
-Node.js / Express.js / React.js / Typescript
+- Currently working at Jobis&Villains (자비스앤빌런즈 - 삼쩜삼)
+
+- 🌱 React.js / Typescript
 
 - 📫 How to reach me   
-**E-mail**  | central.dogma99@gmail.com  
-**Discord** | Osol2#7777                
+**E-mail**  | central.dogma99@gmail.com          
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=centraldogma99)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
